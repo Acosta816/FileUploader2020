@@ -1,0 +1,30 @@
+.FileItem {
+    justify-content: space-between;
+    display: flex;
+    background-color: salmon;
+    border: solid 2px red;
+    margin: 5px;
+    padding: 5px;
+}
+
+.FileItem__circle {
+    border-radius: 25%;
+}
+
+.svg-inline--fa.fa-w-12 {
+    width: 3.75em;
+}
+
+.svg-inline--fa {
+    height: 3em;
+}
+
+.FileItem__content {
+    display: flex;
+    border: solid black 1px;
+}
+
+.FileItem__actions {
+    display: flex;
+    flex-direction: column-reverse;
+}

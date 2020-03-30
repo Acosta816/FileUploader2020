@@ -1,0 +1,8 @@
+.FilterOptions {
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    border: solid 2px brown;
+    padding: 5px;
+    margin: 5px;
+}
